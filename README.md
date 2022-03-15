@@ -5,4 +5,4 @@
 ## Pertemuan 3
 Dipertemuan kali ini kita sedang belajar HTML dan CSS seperti CSS inline Internal dan Eksternal serta ID dan Class
 
-## Langkah Pertama Buat Dokumen HTML
+# Langkah Pertama Buat Dokumen HTML
