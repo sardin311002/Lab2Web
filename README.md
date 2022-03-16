@@ -9,7 +9,7 @@ Contoh Hasilnya
 ![foto](img/css1.png)
 Ini adalah contoh terdapat file dokumen html dasar yang belum diberi CSS dasar internal inline eksternal.
 ## Code 
-    <!DOCTYPE html>
+ <!DOCTYPE html>
     <html lang="en">
 
     <head>
@@ -31,7 +31,7 @@ Ini adalah contoh terdapat file dokumen html dasar yang belum diberi CSS dasar i
         <!-- CSS ID Selector -->
         <div id="intro">
             <h1>Hello World</h1>
-            <p>Kami sedang belajar HTML dan CSS dasar,pada mata kuliah <b>Pemrograman Web</b>di <i>Universitas Pelita
+            <p>Perkenalkan Nama saya sardin Saya disini sedang belajar HTML dan CSS dasar,pada mata kuliah <b>Pemrograman Web</b>di <i>Universitas Pelita
                     Bangsa</i>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka
                 mengenal tag-tag dasar HTML dan CSS.</p>
             <!-- CSS  Class Selector -->
@@ -39,7 +39,7 @@ Ini adalah contoh terdapat file dokumen html dasar yang belum diberi CSS dasar i
         </div>
     </body>
 
-    </html>
+    </html>   
 ## 2).Langkah Mendeklarasikan CSS Internal
 Contoh Hasilnya
 ![foto](img/css2.png)
