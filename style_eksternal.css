@@ -1,0 +1,40 @@
+nav {
+    background: #a72032;
+    color:#fff;
+    padding: 10px;
+    }
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    padding:10px 20px;
+    }
+    nav .active, 
+    nav a:hover {
+    background: #a72032;
+    }
+    /* ID SELECTOR */
+#intro{
+    background: #fed9b7;
+    border: 1px solid #f94144;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: #f25c54;
+}
+/* class selector */
+.btn{
+
+    padding: 15px 20px;
+    background: #edc4b3;
+    color: #f20089;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary{
+    background: #f25c54;
+    
+}
