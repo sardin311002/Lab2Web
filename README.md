@@ -72,7 +72,7 @@ ini adalah contoh CSS inline,css inline adlah prioritas dalam pendeklarasian jik
             mengenal tag-tag dasar HTML dan CSS.</p>
 ## 4).Membuat CSS Eksternal
 Contoh hasil dan code
-![foto](img/)
+![foto](img/css4.png)
 css eksternal adalah css yang dimana filenya terpisah dengan html itu sendiri dengan melalui link penempatan css, css eksternal mampu digunakan banyak file html itulah keunggulan dari ccs eksternal
 ## Code
         nav{
@@ -89,4 +89,35 @@ css eksternal adalah css yang dimana filenya terpisah dengan html itu sendiri de
         nav a:hover{
             background: #a4133c;
             border-radius: 4px;
+        }
+## 5).Menambahkan CSS Selector
+Ini adalah contoh code hasilnya
+![foto](img/css5.png)
+css selector adalah pemilihan dengan menggunakan id atau class dan bisa juga selector pada tag dan element html id menggunakan code yang dimana didalam file css menggunakan (#) sedangkan class menggunakan code yang ketika di css pendeklarasiannya yaitu (.) sedangkan selector element atau tag pendeklarasiannya (p) atau element lainnya
+## Code
+        /* ID SELECTOR */
+        #intro{
+            background: #fed9b7;
+            border: 1px solid #f94144;
+            min-height: 100px;
+            padding: 10px;
+        }
+        #intro h1{
+            text-align: left;
+            border: 0;
+            color: #f25c54;
+        }
+        /* class selector */
+        .btn{
+
+            padding: 15px 20px;
+            background: #edc4b3;
+            color: #f20089;
+            display: inline-block;
+            margin: 10px;
+            text-decoration: none;
+        }
+        .btn-primary{
+            background: #f25c54;
+            
         }
