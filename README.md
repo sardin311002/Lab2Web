@@ -4,7 +4,7 @@
 
 ## Pertemuan 3
 Dipertemuan kali ini kita sedang belajar HTML dan CSS seperti CSS inline Internal dan Eksternal serta ID dan Class
-## Langkah Pertama Buat Dokumen HTML
+## 1).Langkah Pertama Buat Dokumen HTML
 Contoh Hasilnya
 ![foto](img/css1.png)
 Ini adalah contoh terdapat file dokumen html dasar yang belum diberi CSS dasar internal inline eksternal.
@@ -40,7 +40,7 @@ Ini adalah contoh terdapat file dokumen html dasar yang belum diberi CSS dasar i
     </body>
 
     </html>
-## Langkah Mendeklarasikan CSS Internal
+## 2).Langkah Mendeklarasikan CSS Internal
 Contoh Hasilnya
 ![foto](img/css2.png)
  ini adalah contoh bagaimana menaruh inline dalam CSS dan juga code code dalam css nya seperti color pada h1
@@ -61,7 +61,7 @@ Contoh Hasilnya
             color: #f48c06; 
             }
         </style>
-## Langkah Menambahkan Inline CSS
+## 3).Langkah Menambahkan Inline CSS
  contoh hasil nya serta penempatan css inline nya
 ![foto](img/css3.png)
 ini adalah contoh CSS inline,css inline adlah prioritas dalam pendeklarasian jika di deklarasikan secara bersamaan Inline prioritas
@@ -70,3 +70,23 @@ ini adalah contoh CSS inline,css inline adlah prioritas dalam pendeklarasian jik
         <p style="text-align: center; color: #c9184a ;">Kami sedang belajar HTML dan CSS dasar,pada mata kuliah <b>Pemrograman Web</b>di <i>Universitas Pelita
                 Bangsa</i>. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka
             mengenal tag-tag dasar HTML dan CSS.</p>
+## 4).Membuat CSS Eksternal
+Contoh hasil dan code
+![foto](img/)
+css eksternal adalah css yang dimana filenya terpisah dengan html itu sendiri dengan melalui link penempatan css, css eksternal mampu digunakan banyak file html itulah keunggulan dari ccs eksternal
+## Code
+        nav{
+            background: #ff006e ; 
+            color: #fff;
+            padding: 15px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 15px 20px;
+        }
+        nav .active,
+        nav a:hover{
+            background: #a4133c;
+            border-radius: 4px;
+        }
