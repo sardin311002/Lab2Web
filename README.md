@@ -133,7 +133,7 @@ elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut 
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? 
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-paragraf"> )`
 
 ## Jawaban Soal Latihan 
 1)Saya akan mengubah dan menambahkan pada kode CSS.
