@@ -136,13 +136,13 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-paragraf"> )`
 
 ## Jawaban Soal Latihan 
-1)Saya akan mengubah dan menambahkan pada kode CSS.
+1). Saya akan mengubah dan menambahkan pada kode CSS.
 ![img](img/ss%20latihan%201.1.png)
 Setelah saya jalankan
 ![img](img/ss%20latihan%201.2.png)<br>
-2)h1{} Untuk memberikan style pada semua element h1.
+2). h1{} Untuk memberikan style pada semua element h1.
 #intro h1{} Awalan simbol hash (#) memungkinkan kita untuk memberi style pada id. selector id bersifat kaku dan tidak bisa digunakan kembali pada element yang lainnya.<br>
 ![img](img/ss%20latihan%202.1.png)<br>
 ![img](img/ss%20latihan%202.2.png)<br>
-3).Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu.<br>
-4).Deklarasi id="paragraf-1" akan ditampilkan pada browser, karena selektor id lebih spesifik dari class atau bahkan element P itu sendiri, kecuali jika kita menambahkan property pada inline element P maka selektor id tersebut akan tertimpa, karena inline lebih spesifik daripada id, class, dan element<br>
+3). Setelah dilakukan pengujian, deklarasi CSS Inline lebih dahulu tampil di browser, itu dikarenakan permintaan HTTP yang sangat kecil memungkinkan untuk ditampilkan dahulu.<br>
+4). Deklarasi id="paragraf-1" akan ditampilkan pada browser, karena selektor id lebih spesifik dari class atau bahkan element P itu sendiri, kecuali jika kita menambahkan property pada inline element P maka selektor id tersebut akan tertimpa, karena inline lebih spesifik daripada id, class, dan element<br>
